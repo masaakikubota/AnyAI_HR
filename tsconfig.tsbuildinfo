@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/emailcomposer.tsx","./src/components/errorboundary.tsx","./src/components/jobdescriptionmanager.tsx","./src/components/pipelinebuilder.tsx","./src/components/settings.tsx","./src/components/toast.tsx","./src/lib/api.ts","./src/lib/pipeline.ts","./src/lib/storage.ts"],"version":"5.9.2"}
